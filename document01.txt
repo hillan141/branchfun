@@ -2,5 +2,6 @@ On the master branch, I add this line.
 On branch branchfix1 I add this line.
 On branch fix2 I add this line.
 On branch fix2 I add a second line.
+On branchfix1 I add this line 9 March 20201 8:24
 On the master branch while PR#2 is open, I add this line 9 March 8:26
 
